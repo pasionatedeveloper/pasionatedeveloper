@@ -19,4 +19,4 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=Android,java,kotlin,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=android,java,kotlin,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
